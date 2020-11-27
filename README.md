@@ -1,4 +1,4 @@
-# Command-Line-Interface-CLI-game
+# Command-Line-Interface(CLI)-game
 Command line interface based on javaScript
 
 Try your best and see if you are able to answer this small quiz.
